@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>mobile-close-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.207,9.793 L9.793,11.207 L7,8.414 L4.207,11.207 L2.793,9.793 L5.586,7 L2.793,4.207 L4.207,2.793 L7,5.586 L9.793,2.793 L11.207,4.207 L8.414,7 L11.207,9.793 Z M7,0 C3.134,0 0,3.134 0,7 C0,10.866 3.134,14 7,14 C10.866,14 14,10.866 14,7 C14,3.134 10.866,0 7,0 L7,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Enterprise" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ent_XS_Window_Sent" transform="translate(-257.000000, -85.000000)">
+            <g id="Icon/14/close-circle" transform="translate(257.000000, 85.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#A0A0A0" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Color/Avocado-Green" mask="url(#mask-2)" fill="#37A000" fill-rule="evenodd">
+                    <rect id="color" x="0" y="0" width="14" height="14"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
